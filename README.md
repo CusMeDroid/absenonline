@@ -1,2 +1,2 @@
 # Absen Online
-this is an application for a thesis.
+This is an application for a thesis.
