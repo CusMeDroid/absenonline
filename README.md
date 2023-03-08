@@ -1,5 +1,5 @@
 # Absen Online
-This is an application for a thesis.
+Build release apps for a company, where employees easily, quickly and accurately Absen Online.
 
 Permission on Manifest :
 
