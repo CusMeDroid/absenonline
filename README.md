@@ -44,6 +44,11 @@ Permission on Manifest :
 ~ Saving Task for info attendance
 ```
 
+## CHECK KEYSTORE
+```
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+```
+
 ## PRIVACY
 At the core of this application online data storage is needed, read carefully in the privacy on app about what policies for the application we offer. 
 Contact us if you still have questions that you may not understand, we will always respond to your questions.
