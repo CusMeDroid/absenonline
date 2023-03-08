@@ -45,4 +45,5 @@ Permission on Manifest :
 ```
 
 ## PRIVACY
-At the core of this application online data storage is needed, read carefully in the privacy on app about what policies for the application we offer.
+At the core of this application online data storage is needed, read carefully in the privacy on app about what policies for the application we offer. 
+Contact us if you still have questions that you may not understand, we will always respond to your questions.
