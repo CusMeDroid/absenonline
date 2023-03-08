@@ -23,7 +23,7 @@ Permission on Manifest :
  
  ```
  ~ MAPS (for feature maps)
- ~ FIREBASE (for Database RealTime, Analitycs, Message, Storage, AUTH Email and more)
+ ~ FIREBASE (for Database RealTime, Analitycs, Message, Storage, AUTH Email and more extension)
  ```
 
 ## GRADLE
