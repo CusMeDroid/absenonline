@@ -43,3 +43,6 @@ Permission on Manifest :
 ~ Fill attendance in a timely manner & Within a radius of 200
 ~ Saving Task for info attendance
 ```
+
+## PRIVACY
+At the core of this application online data storage is needed, read carefully in the privacy on app about what policies for the application we offer.
